@@ -24,7 +24,7 @@ Part 3: รายได้จากเงินปันผล (Dividend Income 
 	… + … = …
 DE ที่มีค่าต่ำๆ หมายความว่าบริษัทที่เราจะลงทุนไม่ได้กู้เงินจากภายนอกมากจนเกินไป (ในกลยุทธ์นี้จะกรองค่า DE ที่ต่ำกว่า 0.25)
 
-![image](https://github.com/user-attachments/assets/3ce0ed6b-0477-434f-b4f4-c2f899b6eccc)
+![image](https://github.com/user-attachments/assets/e12c8889-541c-4bae-9ddc-e7be08dad800)
 
 Figure 1: กราฟ Histogram แสดงค่า DE กับจำนวนบริษัท (เกณฑ์ในการคัดหุ้น DE < 0.25)
 Figure 2: กราฟ Column แสดงจำนวนบริษัททั้งหมด และบริษัทที่มีค่า DE ต่ำกว่า 0.25
