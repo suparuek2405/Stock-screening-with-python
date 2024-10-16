@@ -128,5 +128,15 @@ Figure 3.4: กราฟ Column แสดงจำนวนบริษัทท
 
 ![image](https://github.com/user-attachments/assets/572b13e8-e4f2-4392-8d62-9110c2fd360c)
 
-Figure 5: กราฟ Dot แสดง % เงินปันผลของบริษัทที่ผ่านเกณฑ์ DE, FCF และเงินปันผลมากกว่า 3%
-จากข้อมูลนี้จะทำให้ได้หุ้น 10 ตัวได้แก่ 'SSSC', 'RCL', 'UPF', 'AYUD', 'RPC', 'UPOIC', 'TPA', 'TMD', 'HFT', 'PRAKIT'
+Figure 3.5: กราฟ Dot แสดง % เงินปันผลของบริษัทที่ผ่านเกณฑ์ DE, FCF และเงินปันผลมากกว่า 3%
+จากข้อมูลนี้จะทำให้ได้หุ้น 10 ตัวได้แก่ 'SSSC', 'RCL', 'UPF', 'AYUD', 'RPC', 'UPOIC', 'TPA', 'TMD', 'HFT', 'PRAKIT' ซึ่งแต่ละตัวจะให้ผลตอบแทนดังนี้
+
+![image](https://github.com/user-attachments/assets/345a3115-ec0b-456b-9cd1-c43e084b48b6)
+
+Figure 3.5: ตารางแสดงผลตอบแทนและเงินปันผลของหุ้น 10 ตัวที่ผ่านการกรองโดย Dididend Income Strategy
+
+![image](https://github.com/user-attachments/assets/4d947efd-94fd-4aaf-bf21-d77fdc281560)
+
+Figure 3.6: Line plot แสดงการเพิ่มขึ้น/ลดลงของเงินทุนตั้งต้น (1,000,000 บาท) ตลอดระยะเวลาการลงทุนตั้งแต่ Mar 23 - Sep 24
+
+
